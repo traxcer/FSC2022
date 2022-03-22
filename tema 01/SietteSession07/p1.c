@@ -32,7 +32,7 @@ void contar(char * filename, int * minusculas, int * mayusculas, int * digitos);
 
 int main(int argc,char * argv[]){
     if (argc<2){
-        printf("Debe usar %s nombfichero",argv[0]);
+        printf("Atención: Debe usar %s nombfichero\n",argv[0]);
         return 0;
     }
     int minusculas, mayusculas, digitos;
@@ -40,8 +40,6 @@ int main(int argc,char * argv[]){
     printf("Minusculas: %d", minusculas);
 }
     
-
-
 void contar(char * filename, int * minusculas, int * mayusculas, int * digitos){
     char buf[255];
     int fd; 
@@ -54,6 +52,7 @@ void contar(char * filename, int * minusculas, int * mayusculas, int * digitos){
     do{
         leido = read(fd,buf,sizeof(buf));
     }while(leido==0);
+    printf("\nLeido: %s\n",buf);
     for (int i=0;i<255;i++){
         if (buf[i]>='a' && buf[i]<='z') *minusculas=*minusculas+1;
     }
