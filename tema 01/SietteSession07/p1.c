@@ -27,6 +27,7 @@ Nótese que este programa no espera salida alguna, y que las comprobaciones se r
 #include <unistd.h>
 #include <stdlib.h>
 
+#define T 255
 //Prototipos de funciones
 void contar(char * filename, int * minusculas, int * mayusculas, int * digitos);
 
@@ -37,12 +38,12 @@ int main(int argc,char * argv[]){
     }
     int minusculas, mayusculas, digitos;
     contar("datos.txt", &minusculas, &mayusculas, &digitos);
-    printf("Minusculas: %d", minusculas);
+    printf("Minusculas: %d\nMayusculas: %d\nDigitos: %d\n", minusculas, mayusculas, digitos);
 }
     
 void contar(char * filename, int * minusculas, int * mayusculas, int * digitos){
-    char buf[255];
-    int fd; 
+    char buf[T];
+    int fd, m=0, M=0, d=0; 
     ssize_t leido;
 
     if((fd=open(filename,O_RDONLY))<0){
@@ -52,9 +53,17 @@ void contar(char * filename, int * minusculas, int * mayusculas, int * digitos){
     do{
         leido = read(fd,buf,sizeof(buf));
     }while(leido==0);
-    printf("\nLeido: %s\n",buf);
-    for (int i=0;i<255;i++){
-        if (buf[i]>='a' && buf[i]<='z') *minusculas=*minusculas+1;
+    if (close(fd)<0){
+        perror("close");
+        exit(-1);
     }
-
+    int tamanio=strlen(buf);
+    for (int i=0;i<tamanio;i++){
+        if ((buf[i]>='a') && (buf[i]<='z')) m++;
+        if ((buf[i]>='A') && (buf[i]<='Z')) M++;
+        if ((buf[i]>='0') && (buf[i]<='9')) d++;
+    }
+    *minusculas=m;
+    *mayusculas=M;
+    *digitos=d;
 }
