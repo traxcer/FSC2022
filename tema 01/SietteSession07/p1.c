@@ -27,7 +27,7 @@ Nótese que este programa no espera salida alguna, y que las comprobaciones se r
 #include <unistd.h>
 #include <stdlib.h>
 
-#define T 255
+#define T 1024
 //Prototipos de funciones
 void contar(char * filename, int * minusculas, int * mayusculas, int * digitos);
 
