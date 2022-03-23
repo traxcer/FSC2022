@@ -17,7 +17,8 @@ La función devuelve -1 en caso de error, o 0 en cualquier otro caso.
 
 Para probar su funcionamiento, será necesario diseñar un programa principal que tome como 
 argumentos, por un lado, el nombre del fichero y, por otro, un mensaje de texto de longitud 
-arbitraria. En dicho programa principal se deberá crear la estructura correspondiente para 
+arbitraria. 
+En dicho programa principal se deberá crear la estructura correspondiente para 
 pasársela a la función guardar(). Los campos de la estructura son:
 short size: la longitud del mensaje recibido como argumento del main.
 char * payload: una cadena de caracteres con el mensaje recibido.
@@ -45,35 +46,62 @@ gráfica para ejemplificar una solución, pero en realidad se ha debido generar 
 #include <fcntl.h>
 #include <stdlib.h>
 #include <unistd.h>
+#include <string.h>
 
 struct PDU {
    short size;
    char * payload;
    long crc;
-}pdu;
+};
 
 //Prototipos de funciones
 int guardar(char * filename, struct PDU * pdu);
 
 //==================================================
-int main(){
-   pdu.size = 10;
-   pdu.payload="payload";
-   pdu.crc=pdu.payload[0] + pdu.payload[1] + pdu.payload[2];
-   guardar("pdu.dat",&pdu);
-   printf("\nHemos temrinado");
+int main(int argc, char* argv[]){
+   if (argc<2){
+      printf("Debe usarse: %s payload\n",argv[0]);
+      return 1;
+   }
+   struct PDU pdu;
+   pdu.size = strlen(argv[1]);
+   pdu.payload=(char *) malloc (pdu.size); //asigno memoria en el heap para el puntero del payload
+   memcpy(pdu.payload,argv[1],pdu.size); //asigno la cadena que he pasado al payload
+   pdu.crc=0;
+   for (int i=0;i<pdu.size;i++){
+      pdu.crc+=pdu.payload[i];
+   }
+   printf("PDU:\n\tpdu.size=%d\n\tpdu.payload=%s\n\tpdu.crc=%lu\n",pdu.size,pdu.payload,pdu.crc);
+   guardar("pdu.txt",&pdu);
+   printf("\nHemos terminado\n");
 }
 //===================================================
 int guardar(char * filename, struct PDU * pdu){
-int fd;
-ssize_t escrito;
-    if ((fd=open(filename,O_CREAT || O_WRONLY || O_APPEND,644)==-1)){ //Abrimos el fichero para añadir, si no existe se crea
-       perror("open");
+int fd, escrito;
+   //Abre el fichero para añadir, si no existe se crea
+   fd=open(filename, O_WRONLY | O_APPEND | O_CREAT,0666);
+   if (fd<0){
+       perror("Error en open");
        exit(-1);
     }
-   if((escrito=write(fd,pdu, sizeof(pdu)))<0){
-      perror("write");
-      exit(-1);
-   }
-   return 1;
+   //Escribe la estructura
+   // printf("PDU a Escribir:\n\tpdu.size=%d\n\tpdu.payload=%s\n\tpdu.crc=%lu\n",pdu->size,pdu->payload,pdu->crc);
+   escrito=write(fd,&pdu->size,sizeof(short));
+   if (escrito<0){
+       perror("Error escribiendo pdu.size");
+       exit(-1);
+    }
+   escrito=write(fd,pdu->payload,(pdu->size));
+   if (escrito<0){
+       perror("Error escribiendo pdu.payload");
+       exit(-1);
+    }
+    escrito=write(fd,&pdu->crc,sizeof(long));
+   if (escrito<0){
+       perror("Error escribiendo pdu.crc");
+       exit(-1);
+    }
+   
+close(fd);
+return 1;
 }
