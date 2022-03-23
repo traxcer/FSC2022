@@ -87,7 +87,7 @@ int cargar(char * filename){
         for (int i=0;i<pdu.size;i++)
             crcchk+=pdu.payload[i];
         if (crcchk==pdu.crc) printf(": {size = %d,payload = %s,crc = %lu}\n",pdu.size,pdu.payload,pdu.crc);
-        else printf("corrupta\n");
+        else printf(" corrupta\n");
         numpdu++;
     }
     if (leo<0){
