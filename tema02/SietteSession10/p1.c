@@ -32,3 +32,86 @@ en Siette, o bien incluir el siguiente #define _POSIX_SOURCE al principio del
 código.
 */
 
+#define _POSIX_SOURCE
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <sys/types.h>
+#include <sys/wait.h>
+#include <sys/time.h>
+#include <signal.h>
+#include <unistd.h>
+
+#define T 256
+
+int pid_hijo1;
+int pid_hijo2;
+int pid_padre;
+
+void manejador_hijo2SIGUSR1(int sig){
+    signal(sig,manejador_hijo2SIGUSR1);
+    char msg[T];    
+    sprintf(msg,"Soy el proceso hijo2 con pid = %d: ya estoy despierto.\n",getpid());
+    write(1,msg,strlen(msg));
+}   
+
+void manejador_Alarma(int sig){
+    //Maneja la alarma del hijo1 cada 2 segundos
+    signal(sig,manejador_Alarma); //armo la alarma del temporizador de nuevo
+    char msg[T];    
+    sprintf(msg,"Soy proceso hijo1 con PID=%d: papá, despierta a mi hermano\n",getpid());
+    write(1,msg,strlen(msg));
+    kill(pid_padre, SIGUSR1); //llama al padre
+}
+void manejador_padreSIGUSR1(int sig){
+    signal(sig,manejador_padreSIGUSR1);
+    char msg[T];    
+    sprintf(msg,"Soy el proceso padre con PID = %d: ya voy!.\n",getpid());
+    write(1,msg,strlen(msg));
+    kill(pid_hijo2, SIGUSR1); //llama al hijo2
+} 
+
+int main(){
+
+int pid_padre = getpid(); //Aqui guardo el pid del padre
+
+    /* El padre crea dos procesos hijos */
+    if((pid_hijo1 = fork())<0){
+        perror("fork");
+        exit (-1);
+        } else if (pid_hijo1 == 0){ //Estoy en el hijo1
+            printf("Soy el hijo 1, acabo de nacer y mi pid es: %d\n",getpid());
+            //Activo un temporizador a 2 segundos en el hijo 1
+            struct itimerval temporizador;
+            struct timeval tiempoini;
+            struct timeval tiemporepe;
+            tiempoini.tv_sec=2;
+            tiempoini.tv_usec=0;
+            tiemporepe.tv_sec=2;
+            tiemporepe.tv_usec=0;
+            temporizador.it_value=tiempoini;
+            temporizador.it_interval=tiemporepe;
+            signal(SIGALRM,manejador_Alarma); //armo la alarma
+            setitimer(ITIMER_REAL,&temporizador,NULL); //activo el temporizador
+            while(1){ //iteración infinita   
+        }
+    }
+    if((pid_hijo2 = fork())<0){
+        perror("fork");
+        exit (-1);
+            } else if (pid_hijo2 == 0){ //Estoy en el hijo2
+            printf("Soy el hijo 2, acabo de nacer y mi pid es: %d\n",getpid());
+            signal(SIGUSR1,manejador_hijo2SIGUSR1);
+            while(1){ //iteración infinita  
+            }
+        }
+    
+    if (pid_hijo1 !=0){ //Estoy en el padre
+        //signal(SIGUSR1,manejador_SIGUSR1); //armo el manejador
+        signal(SIGUSR1,manejador_padreSIGUSR1);
+        printf("Soy el padre y mi pid es: %d\n",pid_padre);
+        while(1);
+    }
+    return 0;
+}
