@@ -1,0 +1,16 @@
+total 52
+drwxrwxr-x 12 eloy eloy 4096 abr 27 09:07 .
+drwx------  6 eloy eloy 4096 feb 19 12:00 ..
+-rw-rw-r--  1 eloy eloy    0 abr 27 09:07 cat
+drwxrwxr-x  2 eloy eloy 4096 abr 25 20:10 ClientesServdores
+drwxrwxr-x 10 eloy eloy 4096 abr 27 08:57 ExSeptiembre2021
+prw-rw-r--  1 eloy eloy    0 abr 27 09:06 fsc_maquina
+drwxrwxr-x  8 eloy eloy 4096 abr 25 20:29 .git
+-rw-rw-r--  1 eloy eloy   31 mar 22 07:26 .gitignore
+drwxrwxr-x  3 eloy eloy 4096 feb 24 22:52 LinuxSystemPrograming
+drwxrwxr-x  2 eloy eloy 4096 mar 23 19:27 RepasoProgramacionC
+drwxrwxr-x  2 eloy eloy 4096 mar  2 09:17 tema 00
+drwxrwxr-x  8 eloy eloy 4096 mar 22 09:13 tema 01
+drwxrwxr-x 11 eloy eloy 4096 abr 25 20:06 tema02
+drwxrwxr-x  3 eloy eloy 4096 mar 29 16:38 UnixProgramming
+drwxrwxr-x  2 eloy eloy 4096 abr 27 08:56 .vscode
