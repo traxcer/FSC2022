@@ -1,0 +1,4 @@
+Para activaer el entorno virtual usar:
+
+source bin/activate
+
