@@ -1,0 +1,171 @@
+﻿id,username,email,firstname,lastname,idnumber,institution,department,phone1,phone2,city,url,icq,skype,aim,yahoo,msn,country,profile_field_NIFDirector,profile_field_NumProvEscuela,profile_field_NombDire,profile_field_Ape1Dire,profile_field_Ape2Dire,profile_field_NombreyNumVia,profile_field_Bloque,profile_field_Escalera,profile_field_Piso,profile_field_Puerta,profile_field_CPEscuela,profile_field_TelEscuela,profile_field_LocaEscuela,profile_field_CentroEx
+2,administrador,administrador@apaemalaga.es,Administrador,"del Sistema",,,,,,Málaga,,,,,,,ES,25704711A,MAxxxx,"Manuel Eloy ",Gutiérrez,,Comedias,,,,,29008,952221726,MÁLAGA,MALAGA
+202,areces,autoescuelaareces@gmail.com,ARECES,ARECES,,,,,,MALAGA,,,,,,,ES,11773933A,MA0691,MIGUEL,PAMO,DIAZ,"C INGENIERO DE LA CIRVA 4",,,,,29004,744616159,MÁLAGA,MALAGA
+201,pasamar,autoescuelapasamar@gmail.com,Ascención,"Hierro Ariza",,,,,,Marbella,,,,,,,ES,08915428F,MA0683,Salvador,Montes,Dominguez,"av Padre Cura Edf Miguel Angel Loren",6,,,C,29680,952805575,ESTEPONA,MARBELLA
+186,10autoescuela,diezautoescuela@gmail.com,"Autoescuela 10","Lechuga Torres",,,,,,Marbella,,,,,,,ES,,MA0642,,,,"c/amor 36 B",,,,,29670,697471500,MARBELLA,MARBELLA
+56,acapulco,aeacapulco@hotmail.com,Autoescuela,Acapulco,,,,,,Fuengirola,,,,,,,ES,27377818K,MA0450,"Salvadora Maria","Fernandez ",Vega,"C/ HNOS GALAN 19 EDIF DOÑANA",,,,,29640,657655124,FUENGIROLA,MALAGA
+57,acuario,autoacuario@hotmail.com,Autoescuela,Acuario,,,,,,Churriana,,,,,,,ES,24836735R,MA0145,JOSÉ,MARTIN,MORENO,"AVENIDA SAN JAVIER Nª13",,,,,29140,952621039,MÁLAGA,MALAGA
+192,agl,aglautoescuela@gmail.com,AUTOESCUELA,AGL,,,,,,Benamocarra,,,,,,,ES,52583036E,MA0690,Alicia,Rios,Gallego,"C/Carril 1",,,,,29719,615143623,BENAMOCARRA,MALAGA
+30,aguayo,aguayoformacion@hotmail.es,Autoescuela,Aguayo,,,,,,"Velez Málaga",,,,,,,ES,25050355C,MA0285,"Juan Manuel",Aguayo,Ortiz,"ROS ALFEREZ 4 ",,,,,29740,629275080,VÉLEZ-MÁLAGA,MALAGA
+86,alandalus,alandalusformacion@gmail.com,Autoescuela,"Al Andalus",,,,,,Estepona,,,,,,,ES,45058995V,MA0128,Candido,Escalante,Escarcena,"AVDA  ANDALUCIA 165",,,,,29680,952808306,ESTEPONA,MARBELLA
+87,alboran,autoescuelasalboran@gmail.com,Autoescuela,Alboran,,,,,,Estepona,,,,,,,ES,74833911F,MA0644,Luis,Campos,Martell,"GRANADA 16",,,,,29680,625980644,ESTEPONA,MARBELLA
+58,alcazaba,cuenca-3@hotmail.com,Autoescuela,Alcazaba,,,,,,Málaga,,,,,,,ES,53695041T,MA0589,"María Teresa",Ruiz,Gordillo,"ALCALDE NICOLAS MAROTO 2",,,,,29014,627457556,MÁLAGA,MALAGA
+113,alex,autoescuelaalex@hotmail.com,Autoescuela,Alex,,,,,,Ronda,,,,,,,ES,31643081A,MA0437,Grabriel,Zambrana,Calderon,"AVDA. DE SAUCEJO 110",,,,,29330,617500519,ALMARGEN,RONDA
+165,alfambra,forvialmalaga@hotmail.es,Autoescuela,Alfambra,,,,,,Málaga,,,,,,,ES,33393554S,MA0535,"Francisco Javier",Martin,Serrano,"LA UNION 36",,,,,29006,678428288,MÁLAGA,MALAGA
+6,alfonsopozo,apozo@autoescuela-molina.es,Autoescuela,"Alfonso Pozo",,,,,,Málaga,,,,,,,ES,44250886J,MA0152,"Fernando Luis",Duran,"Ortiz de Landazuri","MARTINEZ MALDONADO 67",,,,,29007,657169029,MÁLAGA,MALAGA
+142,algaidas,trinilechero@hotmail.com,Autoescuela,Algaidas,,,,,,"V V Algaidas",,,,,,,ES,74905797H,MA0598,Trinidad,Gomez,Ruiz,"Constitución 22",,,,,29310,676209392,"VILLANUEVA DE ALGAIDAS",ANTEQUERA
+188,alhaurin,novaealhauringrande@outlook.es,Autoescuela,Alhaurin,,,,,,"Alhaurin el Grande",,,,,,,ES,74864465V,MA0677,Tamara,Navarro,Bernal,"CARRETERA DE CARTAMA 25 ",,,,,29120,654306392,"ALHAURÍN EL GRANDE",MALAGA
+143,anaya,autoescuelaanayacampillos@hotmail.com,Autoescuela,Anaya,,,,,,Campillos,,,,,,,ES,74900585G,MA0402,"Jose ",Anaya,Nuñez,"PUERTA DE TEBA 9",,,,,29320,620716269,CAMPILLOS,ANTEQUERA
+144,anayacampillos,autoescuelaanayateba@telefonica.net,Autoescuela,"Anaya Garnica",,,,,,Teba,,,,,,,ES,25301645N,MA0185,Francisco,Anaya,Nuñez,"CARRASCO 8",,,,,29327,639250777,TEBA,ANTEQUERA
+55,arcangel,autoescuelarcangel@hotmail.com,Autoescuela,Arcangel,,,,,,Torremolinos,,,,,,,ES,25077400V,MA0297,Manuel,"De los reyes",Quesada,"JOAN MIRO 34",,,,,29620,649183613,TORREMOLINOS,MALAGA
+145,archidona,autoescuelaarchidona20@hotmail.com,Autoescuela,Archidona,,,,,,Archidona,,,,,,,ES,74901173V,MA0391,"Jose Manuel","Bautista ",Arjona,"PASEO DE LA VICTORIA 8",,,,,29300,616551310,ARCHIDONA,ANTEQUERA
+7,arroyodelamiel,autoescuela_arroyo@hotmail.com,Autoescuela,"Arroyo de la Miel",,,,,,"Arroyo de la Miel",,,,,,,ES,25064439M,MA0466,"CARLOS JAVIER",ELENA,GAMBOA,"AVDA. CIUDAD DE MELILLA 24 LOCAL 37",,,,,29639,695898484,BENALMÁDENA,
+185,bailen,bailen@grupoguia.es,Autoescuela,Bailen,,,,,,Málaga,,,,,,,,33395448T,MA0440,"Pedro Cesar",Campos,Gallego,"AVDA. DE BARCELONA 43",,,,,29009,696968389,MÁLAGA,MALAGA
+166,ballesteros,autoescuelaballesteros@hotmail.com,Autoescuela,Ballesteros,,,,,,Málaga,,,,,,,ES,30412856W,MA0461,"Pedro Adolfo",Sanchez,Ballesteros,"GALERA 9",,,,,29130,630893790,"ALHAURÍN DE LA TORRE",MALAGA
+88,bellamar,info@autoescuelas-bellamar.com,Autoescuela,Bellamar,,,,,,"San Pedro de Alcantara",,,,,,,ES,25561472P,MA0362,Salvador,Dominguez,Castillo,"Av Andalucia 7",,,,,29670,952784375,MARBELLA,MARBELLA
+60,benalmadenaavanza,benalmadena.avanza@hotmail.es,Autoescuela,"Benalmadena Avanza",,,,,,Benalmadena,,,,,,,ES,,MAxxxx,,,,,,,,,,,,
+61,bezmiliana,ae.bezmiliana@hotmail.com,Autoescuela,Bezmiliana,,,,,,"Rincón de la Victoria",,,,,,,ES,24858856L,MA0590,Jose,Duarte,Gomez,"PLAZA DEL SEÑORIO 7",,,,,29730,627568527,"RINCÓN DE LA VICTORIA",MALAGA
+89,buggy,buggymarbella@gmail.com,Autoescuela,Buggy,,,,,,Marbella,,,,,,,ES,25570539J,MA0279,"Juan Carlos",Morales,Tornay,"PEDRO VILLANDRADO EDF VALPICA OFC. N 5",,,,,29603,653660331,MARBELLA,MARBELLA
+130,campanillas,aecampanillas@hotmail.com,Autoescuela,Campanillas,,,,,,Campanillas,,,,,,,ES,74867316Q,MA0637,"Jose Daniel",Gonzalez,Sepulveda,"C/JUMILLANO Nº 22 - campanillas",,,,,29590,617336290,MÁLAGA,MALAGA
+10,campus,info@campusautoescuela.es,Autoescuela,Campus,,,,,,Málaga,,,,,,,ES,74855667M,MA0555,Daniel,Cazorla,Silva,"PLUTARCO 5",,,,,29010,657249917,MÁLAGA,MALAGA
+167,cantero,autoescuelacantero@hotmail.com,Autoescuela,Cantero,,,,,,Málaga,,,,,,,ES,25667202F,MA0640,Carlos,Cantero,Reina,"HEROES DE SOSTOA 91",,,,,29002,690960401,MÁLAGA,MALAGA
+62,carrique,autoescuelacarrique@hotmail.com,Autoescuela,Carrique,,,,,,Fuengirola,,,,,,,ES,27383582N,MA0499,ROBERTO,MONTERO,URIARTE,"CALLE EL ESPINAR",,,,3,29640,692041863,FUENGIROLA,MALAGA
+146,circulo,mlicerasp@gmail.com,Autoescuela,Círculo,,,,,,Archidona,,,,,,,ES,74905797H,MA0698,Trinidad,Gomez,Ruiz,"C/ SEVILLA  Nº 2 BAJO",,,,,29300,651438192,ARCHIDONA,ANTEQUERA
+132,ciudadjardin,ciudadjardin2014@yahoo.com,Autoescuela,"Ciudad Jardin",,,,,,Málaga,,,,,,,ES,74831507H,MA0617,"Juan Jose",Garcia,Merida,"HERMANOS ALVAREZ QUINTERO 15",,,bajo,D,29014,606383923,MÁLAGA,MALAGA
+168,clarines,cristojara@hotmail.com,Autoescuela,Clarines,,,,,,Málaga,,,,,,,ES,74906297N,MA0542,Cristobal,Morillo,Molina,"Calle Barca 7",,,,,29011,651820674,MÁLAGA,MALAGA
+147,claxon,autoescuelaclaxon@hotmail.com,Autoescuela,Claxon,,,,,,Antequera,,,,,,,ES,25333477N,MA0396,"Juan Pablo",Delgado,Quintana,"URBN PARQUE NUEVA ANTEQUERA",2,,,LOCAL,29200,685508478,ANTEQUERA,ANTEQUERA
+199,coco,info@cocoautoescuela.com,"Autoescuela Coco","Cadiz Escobosa",,,,,,Málaga,,,,,,,ES,53155570V,MA0699,"Jose Luis",Cadiz,Escobosa,"av andalucia 102",,,,,29793,952531880,TORROX,MALAGA
+63,codigo,cuenca-01@hotmail.com,Autoescuela,Codigo,,,,,,Málaga,,,,,,,ES,25696902Z,MA0587,"Mª Jose",Rodriguez,Sanchez,"AVDA BARCELONA 32",,,,,29009,667927643,MÁLAGA,MALAGA
+148,colmenar,autoescuelacolme@gmail.com,Autoescuela,Colmenar,,,,,,Colmenar,,,,,,,ES,33375160k,MA0574,"Juan Miguel",Vega,Fernandez,"CARRETERA DE RIO GORDO 10",,,,,29170,651074586,COLMENAR,ANTEQUERA
+11,conducing,conducing@hotmail.es,Autoescuela,Conducing,,,,,,Málaga,,,,,,,ES,74828755A,MA0546,Alvaro,Vazquez,"Del Rio","C/SEVILLA Nº 21 LOCAL 3",,,,,29580,670456279,CÁRTAMA,MALAGA
+71,correcaminos,autoescuelacorrecaminos@hotmail.com,Autoescuela,Correcaminos,,,,,,Málaga,,,,,,,ES,74821123F,MA0604,"Oscar Francisco",Linares,Garcia,"C/CAPULINO JAUREGUI Nº 3",,,,,29002,951990939,MÁLAGA,MALAGA
+149,correro,autoescuelacorrero@hotmail.com,Autoescuela,Correro,,,,,,Antequera,,,,,,,ES,74904419C,MA0614,Diego,Correro,Barba,"PABLO PICASSO 4",,,,,29531,620170005,HUMILLADERO,ANTEQUERA
+91,costadelsol,autoescuelacostadelsol@gmail.com,Autoescuela,"Costa del Sol",,,,,,Marbella,,,,,,,ES,50075294Q,MA0539,Javier,Gonzalez,Martin,"AVDA MIGUEL DE CERVANTES Nº 20 - NUEVA ANDALUCIA",,,,,29660,619054711,MARBELLA,MARBELLA
+115,dakar,janieblasr@hotmail.com,Autoescuela,Dakar,,,,,,Ronda,,,,,,,ES,25582451B,MA0520,"Jose Antonio",Nieblas,Romo,"EL BURGO 5 BAJO",,,,,29550,659772786,ARDALES,RONDA
+195,prueba,eloy@meloy.es,Autoescuela,"de prueba",,,,,,Málaga,,,,,,,ES,,MAxxxx,,,,,,,,,,,,
+54,delrio,milada48@hotmail.com,Autoescuela,"Del Rio",,,,,,Málaga,,,,,,,ES,24847141B,MA0687,Milagros,Adalid,Garcia,"C/NAVARRO LEDESMA  Nº 99 - 101",,,,,29010,610032361,MÁLAGA,MALAGA
+150,delrosario,AUTOESCUELADELROSARIO@hotmail.com,Autoescuela,"Del Rosario",,,,,,"V Va del Rosario",,,,,,,ES,25334909H,MA0331,"Jose Antonio",Reguero,Nateras,"AVENIDA BLAS INFANTE 36",,,,,29312,616920915,"VILLANUEVA DEL ROSARIO",ANTEQUERA
+92,delta,mariangelesdelta@hotmail.es,Autoescuela,Delta,,,,,,Marbella,,,,,,,ES,27336243F,MA0237,"Mari Angeles",Parraga,Atienza,"AVDA. DE ANDALUCIA 112",,,,,29680,666361573,ESTEPONA,MARBELLA
+196,digitalnerja,nerjatuning@gmail.com,"Autoescuela Digital Nerja",Pablo,,,,,,Nerja,,,,,,,ES,77468603A,MA0696,"Mª Josefa",Perez,Sanchez,"AVDA.PESCIA Nº 13",,,,,29780,606151555,NERJA,MALAGA
+32,dobleg,cfvdobleg@gmail.com,Autoescuela,"Doble G",,,,,,Torremolinos,,,,,,,ES,,MAxxxx,,,,,,,,,,,,
+151,dolmenes,info@autoescueladolmenes.es,Autoescuela,Dolmenes,,,,,,Antequera,,,,,,,ES,25334474C,MA0676,Diego,Espinar,Ruiz,"C/CARRERA 8",,,,,29200,659347593,ANTEQUERA,ANTEQUERA
+12,dorado,escueladorado@gmail.com,Autoescuela,Dorado,,,,,,Málaga,,,,,,,ES,77469630H,MA0671,Sebastian,Avila,Dorado,"C/ALMEDINA  48  BAJO",,,,,29770,651740577,TORROX,MALAGA
+64,duarte,autoescuelacuencaduarte2@hotmail.com,Autoescuela,Duarte,,,,,,Málaga,,,,,,,ES,74852176X,MA0588,Valerio,Garcia,Valerio,"AVDA JUAN SEBASTIAN EL CANO 192 ",,,,,29017,627986780,MÁLAGA,MALAGA
+169,echeverria,autoecheve@hotmail.com,Autoescuela,Echeverria,,,,,,Málaga,,,,,,,ES,33376760B,MA0532,"JUAN JOSÉ",DOMÍNGUEZ,HERNÁRDEZ,"C/TOMAS DE ECHEVERRIA 17",,,,,29002,609356629,MÁLAGA,MALAGA
+197,elcenit,autoescuelaelcenit@hotmail.com,Autoescuela,"El Cenit",,,,,,Marbella,,,,,,,ES,32040561C,MA0551,"Juan Jesus",Piñer,Vela,"Av Canovas del castillo nº 1 - 1 urb.el cenit ",,,,,29600,640257268,MARBELLA,MARBELLA
+13,elpalo,foreverfran@hotmail.com,Autoescuela,"El Palo",,,,,,Málaga,,,,,,,ES,33365800E,MA0552,Francisco,Gomez,Arango,"C/VILLAFUERTE 15  BAJO  EL PALO",,,,,29017,669723585,MÁLAGA,MALAGA
+93,elpilar,autopilarvialmarbella@hotmail.es,Autoescuela,"El Pilar",,,,,,Marbella,,,,,,,ES,78976528W,MA0680,"Francisco Javier ",Guzman,Millan,"C/SERENATA  RESDENCIAL SAN ENRIQUE LOCAL C",,,,,29601,606892091,MARBELLA,MARBELLA
+171,elvira,autoescuelaelvira@hotmail.com,Autoescuela,Elvira,,,,952966253,722456939,Nerja,https://autoescuelaelvira.com/,,,,,,ES,52583479M,MA0534,"Maria Elvira",Muñoz,Doña,"Prolongación António Millón 24 Local 5",,,,,29780,651831156,NERJA,MALAGA
+116,espinel,espinel0386@hotmail.com,Autoescuela,Espinel,,,,,,Ronda,,,,,,,ES,25586985Z,MA0386,CARLOS,BECERRA,SERRATO,"SEVILLA 41",,,,,29400,670883836,RONDA,RONDA
+33,esteban,autoescuelaesteban@hotmail.com,Autoescuela,Esteban,,,,,,"Velez Málaga",,,,,,,ES,74814081A,MA0513,"ESTEBAN ",TRUJILLO,RODRIGUEZ,"AVENIDA ANDALUCIA NUMERO 108",,,,,29751,607844754,VÉLEZ-MÁLAGA,MALAGA
+94,estepona,autoescuelaestepona@hotmail.com,Autoescuela,Estepona,,,,,,Estepona,,,,,,,ES,74804795D,MA0087,"JOSE LUIS ",SANCHEZ,SOTANO,"c Valencia 5",,,,,29680,952800762,ESTEPONA,MARBELLA
+152,eurocar,formacion@autoescuelaeurocar.com,Autoescuela,Eurocar,,,,,,Antequera,,,,,,,ES,25301175W,MA0443,Juan,"Alcaide ",Baez,"C/ LUCENA 65 BAJO ",,,,,29200,665610423,ANTEQUERA,ANTEQUERA
+14,floridobenalmadena,floridobenalmadena@gmail.com,Autoescuela,"Florido Benalmadena",,,,,,Málaga,,,,,,,ES,25726368V,MA0641,Natalia,Florido,Ramos,"AVDA.DE LA CONSTITUCION  28",,,,,29631,685203704,BENALMÁDENA,MALAGA
+95,franma,franma78@hotmail.com,Autoescuela,Franma,,,,,,Estepona,,,,,,,ES,32848943K,MA0666,"BENARDINO ","MALO ",CAMPOS,"C/ SAN ROQUE Nº 10",,,,,29680,666656826,ESTEPONA,MARBELLA
+35,fuengirola,autoescuelafuengirola@hotmail.com,Autoescuela,Fuengirola,,,,,,Fuengirola,,,,,,,ES,28397133E,MA0261,"Juan ","Montero ",Giraldo,"MALLORCA EDIFICIO DOÑA ELENA",,,,,29640,952463449,FUENGIROLA,MALAGA
+66,gala,autoescuelagala0667@gmail.com,Autoescuela,Gala,,,,,,malaga,,,,,,,ES,25306334D,MA0667,Manuel,Garcia,Lara,"C/COMPETA  16",,,,,29007,615823673,MÁLAGA,MALAGA
+36,gavino,anana.autoescuela@hotmail.com,Autoescuela,Gaviño,,,,,,Málaga,,,,,,,ES,25097031Y,MA0665,"JOSE ANTONIO ","TELLEZ ","MARTIN ","AVDA JUAN SEBASTIAN EL CANO 181",,,,,29017,699665515,MÁLAGA,MALAGA
+133,godoy,godoyautoescuela@gmail.com,Autoescuela,Godoy,,,,,,"Velez Málaga",,,,,,,ES,52589184y,MA0580,"JUAN CARLOS",LÓPEZ,MORENO,"AVENIDA DE LA HISPANIDAD",,,,12,29700,615236038,VÉLEZ-MÁLAGA,MALAGA
+15,grupogara,lacerilla.juan@gmail.com,Autoescuela,"Grupo Gara",,,,,,Málaga,,,,,,,ES,33391778X,MA0650,"ANA MARIA",RAMIREZ,ALBARRACIN,"CALLE GRANADA EDF PLAZA 1",1,,,,29730,952021764,"RINCÓN DE LA VICTORIA",MALAGA
+68,grupoiris,autoescuelasgrupoiris@hotmail.com,Autoescuela,"Grupo Iris",,,,,,Fuengirola,,,,,,,ES,25714229E,MA0459,SANTIAGO,MARTINEZ,ORTIZ,"C/ CAMINO DEL ALBERO Nº8",,,,,29651,658777189,MIJAS,MALAGA
+37,hermanosaguayo,hnosaguayo@hotmail.com,Autoescuela,"Hermanos Aguayo",,,,,,"Torre del Mar",,,,,,,ES,77469133G,MA0419,Alberto,Aguayo,Ortiz,"DUQUE DE AHUMADA 4",,,,,29740,952542950,VÉLEZ-MÁLAGA,MALAGA
+4,meloy,administrativo@meloy.es,Autoescuela,"Hermanos Meloy",,,,,,Málaga,,,,,,,ES,25704711A,MA0448,"MANUEL ELOY",GUTIERREZ,OÑATE,"COMEDIAS 9",,,1,5,29008,952071709,MÁLAGA,MALAGA
+70,jabega,vialjabega@gmail.com,Autoescuela,Jabega,,,,,,Málaga,,,,,,,ES,30554053W,MA0611,"MIGUEL ÁNGEL",GALLEGO,HERNÁNDEZ,"CALLE HORACIO LENGO Nº 20",,,,,29006,640299216,MÁLAGA,MALAGA
+72,jakara,autoescuelasjakara@hotmail.com,Autoescuela,Jakara,,,,,,Pizarra,,,,,,,ES,25063763L,MA0688,Pedro,Lanzac,Sanchez,"PLAZA DEL AYUNTAMIENTO Nº 10",,,,,29560,661867283,PIZARRA,MALAGA
+16,jardindemalaga,autoescuelajardindemalaga@hotmail.com,Autoescuela,"Jardin de Málaga",,,,,,Málaga,,,,,,,ES,33375160K,MA0494,"Juan Miguel",Vega,Fernandez,"ALCALDE JOAQUIN QUILES 27",,,,,29014,692693115,MÁLAGA,MALAGA
+117,jconde,autoescuelajconde@hotmail.com,Autoescuela,JConde,,,,,,Ronda,,,,,,,ES,74926677Z,MA0619,JAIME,RUIZ,CONDE,"C/ MANUEL AZAÑA  Nº 30",,,,,29350,656384216,ARRIATE,RONDA
+118,jcorrales,onecorrales@hotmail.com,Autoescuela,JCorrales,,,,,,Ronda,,,,,,,ES,25593346G,MA0586,"Juan ",Corrales,Doña,"C/LA VIÑA 74 ",,,,28,29410,606256435,YUNQUERA,RONDA
+173,jovial,info@autoescuelajovial.com,Autoescuela,Jovial,,,,,,Fuengirola,,,,,,,ES,27395063Q,MA0634,"MARIA DEL CARMEN ",ALCEDO,LUQUE,"CALLE DOCTOR FLEMING Nº6",,,,,29640,629170068,FUENGIROLA,MALAGA
+119,autoescuelajr,maribelp6@hotmail.com,Autoescuela,JR,,,,,,Ronda,,,,,,,ES,72880847B,MA0601,Javier,Gonzalez,Gonzalez,"AVDA.MALAGA Nº 26",,,,,29400,686327800,RONDA,RONDA
+121,justo,justo.perez@hotmail.com,Autoescuela,Justo,,,,,,Ronda,,,,,,,ES,74927989S,MA0656,JUSTO,PEREZ,HUSSEIN,"CALLE MADEREROS ",10,,,B,29400,637557007,RONDA,RONDA
+120,jvc,vanejvc@hotmail.es,Autoescuela,JVC,,,,951381149,676935241,Ronda,,,,,,,ES,74935157F,"MA518 ","VANESSA ","GRANADOS ",GARCIA,"AVD. DE MALAGA",26,,6,F,29400,676935241,RONDA,RONDA
+96,kasal,autoescuelakasal@hotmail.com,Autoescuela,Kasal,,,,,,Estepona,,,,,,,ES,25589605N,MA0608,"SALVADOR ",CABEZA,PEREZ,"CALLE NUEVA 34",,,,34,29680,677470267,ESTEPONA,MARBELLA
+73,km0,info@km0autoescuelamalaga.es,Autoescuela,"Kilómetro 0",,,,,,Málaga,,,,,,,ES,33370624Q,MA0523,"MARIANO JUAN",ALASCIO,GARCÍA,"Eugenio Gross 30",,,,,29009,951884901,MÁLAGA,MALAGA
+154,leivamollina,garciadeleiva@hotmail.com,Autoescuela,"Leiva Mollina",,,,,,Mollina,,,,,,,ES,25338056Z,MA0579,"Jose Pablo",Maldonado,Lopez,"Los claveles 1",,,bj,,29532,692066316,MOLLINA,ANTEQUERA
+18,leon,cfvjleon@gmail.com,Autoescuela,León,,,,,,Coin,,,,,,,ES,25667202F,MA0625,Carlos,"Cantero ",Reina,"Calle Morales 92",,,,,29100,606312534,COÍN,MALAGA
+193,guindos,rgviallosguindos@gmail.com,Autoescuela,"Los Guindos",,,,,,Málaga,,,,,,,ES,53697752C,MA0693,ANDRES,RUEDA,GONZALEZ,"AVENIDA DE LOS GUINDOS 44",,,,,29004,622080143,MÁLAGA,MALAGA
+76,lostilos,aelostilos@hotmail.com,Autoescuela,"Los tilos",,,,,,Málaga,,,,,,,ES,24774980R,MA0658,"FRANCISCO ",MORENO,CALDERON,"PASEO DE LOS TILOS 43",,,,,29006,952335758,MÁLAGA,MALAGA
+155,luke,fj.lucano@gmail.com,Autoescuela,Luke,,,,,,Antequera,,,,,,,ES,25334761P,MA0627,"FRANCISCO JAVIER",LUQUE,CANO,"CALLE ARCHIDONA 19",,,,,29310,952744683,"VILLANUEVA DE ALGAIDAS",ANTEQUERA
+77,madena,autoescuelamadena@hotmail.com,Autoescuela,Madena,,,,,,Benalmadena,,,,,,,ES,29802118Y,MA0584,Pablo,Carballar,Orta,"Juan LUIS PERALTA Nº 36 LOCAL 4",,,,,29639,607766140,BENALMÁDENA,MALAGA
+19,malagasur,novaemalagasur@gmail.com,Autoescuela,"Málaga Sur",,,,,,Torremolinos,,,,,,,ES,74864465v,MA0697,Tamara,Navarro,Bernal,"Calle pez dorado número 55",,,,,29620,622754521,TORREMOLINOS,MALAGA
+78,malagacom,autoescuelamalaga@hotmail.com,Autoescuela,Malaga.Com,,,,,,Málaga,,,,,,,ES,25040689Z,MA0583,"Javier ",Rodriguez,,"Paseo Cerrado de Calderón Edif Multicentro",13,,,17,29018,952297713,MÁLAGA,MALAGA
+79,malaka,malakavial@gmail.com,Autoescuela,Malaka,,,,,,Málaga,,,,,,,ES,,MA0618,,,,"C/ARENISCA Nº1",,,,,29006,951092188,MÁLAGA,MALAGA
+97,marsanpedro,autoescuela-sanpedro@hotmail.com,Autoescuela,"Mar San Pedro",,,,,,Marbella,,,,,,,ES,24154209T,MA0524,Francisco,Roldan,Aguilera,Autoescuela,,,,27,29670,626283647,MARBELLA,MARBELLA
+98,marbella,autoescuelamarbella@hotmail.com,Autoescuela,Marbella,,,,,,Marbella,,,,,,,ES,24841325Z,MA0336,JOSE,GRANADOS,MARIN,"AVDA.DOCTOR MAIZ VIÑALS",,,,18,29601,952828835,MARBELLA,MARBELLA
+99,marbesula,marbesula01@hotmail.com,Autoescuela,Marbesula,,,,,,Marbella,,,,,,,ES,24091444W,MA0068,"JOSE LUIS ","O DONNELL",ZERON,"RICARDO SORIANO 24",,,,,29601,951775762,MARBELLA,MARBELLA
+200,marcal,autoescuelamarca.l@gmail.com,Autoescuela,"Marca L",,,,,,"Arroyo de la Miel",,,,,,,ES,74833911F,MA0597,Luis,Campos,Martell,"sierra mar 12 local 4",,,,,29631,952567173,BENALMÁDENA,MALAGA
+20,mariano,autoescuelasmariano@hotmail.com,Autoescuela,Mariano,,,,,,Málaga,,,,,,,ES,33370624Q,MA0556,"MARIA JUAN",ALASCIO,GARCIA,"C/ HAENDEL ",,,,1,29004,952171395,MÁLAGA,MALAGA
+100,marina,marinacarey2@yahoo.es,Autoescuela,Marina,,,,,,Estepona,,,,,,,ES,74800117T,MA0055,ANTONIO,"FONTALBA ",FONTALBA,"LUIS BUÑUEL LOCAL 2",,,,,29680,952801335,ESTEPONA,MARBELLA
+40,mayxar,mayxar@hotmail.com,Autoescuela,Mayxar,,,,,,Almachar,,,,,,,ES,25042380A,MA0467,"Francisco Antonio",Gomez,Roca,"C/ NUEVA Nª2",,,,,29718,952512420,ALMÁCHAR,MALAGA
+41,metta,info@autoescuelametta.es,Autoescuela,Metta,,,,,,Málaga,,,,,,,ES,30547133M,MA0490,"Mª DEL MAR",TORRES,RUIZ,"CALLE LA ERA 22",,,,,29016,605532879,MÁLAGA,MALAGA
+42,mettacartama,mar@autoescuelametta.es,Autoescuela,"Metta Cartama",,,,,,Cartama,,,,,,,ES,30547133M,MA0662,"Mª DEL MAR",TORRES,RUIZ,"CARRETERA DE COIN 24",,,,,29570,605532879,CÁRTAMA,MALAGA
+81,miramar,autoescuelamiramar@outlook.com,Autoescuela,Miramar,,,,,,Fuengirola,,,,,,,ES,30524078L,MA0631,ANGUSTIAS,OLMO,LIMONES,"Calle Molino de viento 1  Local 4B",,,,,29640,951384667,FUENGIROLA,MALAGA
+21,miravalle,miravalledealhaurin@hotmail.com,Autoescuela,Miravalle,,,,,,"Alhaurin ",,,,,,,ES,,MA0547,,,,"C/ CRUZ 59",,,,,29120,634718983,"ALHAURÍN EL GRANDE",MALAGA
+122,moctezuma,automoctezuma2@hotmail.com,Autoescuela,Moctezuma,,,,,,Ronda,,,,,,,ES,25561472P,MA0346,SALVADOR,DOMINGUEZ,CASTILLO,"CARRERA ESPINEL 40",,,,"OF 10",29400,952879802,RONDA,RONDA
+3,molina,malaga1@autoescuelamolinamalaga.es,Autoescuela,Molina,,,,,,Malaga,,,,,,,ES,44250886J,MA0421,"Fenando Luis",Duran,"Ortiz de Landazuri","Avenida Simon Bolivar nº 17 ",,,,,29011,952102100,MÁLAGA,MALAGA
+43,montesol,autoescuelamontesol@gmail.com,Autoescuela,Montesol,,,,,,Fuengirola,,,,,,,ES,27383582N,MA0370,ROBERTO,MONTERO,URIARTE,"CALLE CORDOBA Nº 33",,,,BAJO,29640,952475237,FUENGIROLA,MALAGA
+22,montesur,autoescuela-montesur@hotmail.com,Autoescuela,Montesur,,,,,,"Velez Málaga",,,,,,,ES,53370541F,MA0505,"JUAN MANUEL",PÉREZ,DOMÍNGUEZ,"C/ MAGALLANES Nº10 ",,,BAJO,2,29700,695185918,VÉLEZ-MÁLAGA,MALAGA
+23,mundofacil,mundofacil2011@hotmail.com,Autoescuela,Mundofacil,,,,,,Torremolinos,,,,,,,ES,33358404D,MA0550,"ANTONIO JOSE",PEREZ,NADALES,"AV. SALVADOR DALÍ Nº 5",,,,,29620,605206932,TORREMOLINOS,
+123,nebro,chean82@gmail.com,Autoescuela,Nebro,,,,,,Ronda,,,,,,,ES,74933510Q,MA0605,"Jose Antonio",García,Nebro,"Los Jardines",,,,,29470,610697481,"CUEVAS DEL BECERRO",RONDA
+82,noctiluca,autoescuelanoctiluca@gmail.com,Autoescuela,Noctiluca,,,,"952 40 49 82",,"Rincon de la Victoria",http://www.autoescuelanoctiluca.es,,,,,,ES,46037389Z,MA0565,Encarnación,Moreno,Rodríguez,"La Corta 11",,,,,29730,952404982,"RINCÓN DE LA VICTORIA",MALAGA
+176,novae,novaenuevaalhaurin@gmail.com,Autoescuela,Novae,,,,,,Málaga,,,,,,,ES,74864465V,MA0606,Tamara,Navarro,Bernal,"C/Mirador de Bellavista  nº 3",,,,,29130,606461340,"ALHAURÍN DE LA TORRE",MALAGA
+137,nuevaandalucia,Guiabarbian@gmail.com,Autoescuela,"Nueva Andalucia",,,,,,Málaga,,,,,,,ES,25085704H,MA0366,"Jose Luis",Gallardo,"de la Torre","c/ CABAS GALVAN 9",,,,,29011,649917684,MÁLAGA,MALAGA
+8,axarquia,info@autoescuelanuevaaxarquia.es,Autoescuela,"Nueva Axarquia",,,,,,Vélez-Málaga,,,,,,,ES,75111024Q,MA0566,JOSE,GARCÍA,MUÑOZ,"CALLE ADEODATO ALTAMIRANO",,,,2,29700,640048539,VÉLEZ-MÁLAGA,MALAGA
+101,europa,eceuropa02@gmail.com,Autoescuela,"Nueva Europa",,,,,,Manilva,,,,,,,ES,38772614L,MA0674,Ricardo,Mateo,"de Maya","C/ Raimundo Burguera nº1",,,,4,29692,649949638,MANILVA,MARBELLA
+102,nuevamena,autoescuelanuevamena@hotmail.com,Autoescuela,"Nueva Mena",,,,,,Marbella,,,,,,,ES,08922942T,MA0253,ISAAC,PEÑA,GOMEZ,"CALLE CORDOBA Nº1",,,,,29670,644342680,MARBELLA,MARBELLA
+177,nuevanerja,sirco2@gmail.com,Autoescuela,"Nueva Nerja",,,,,,Nerja,,,,,,,ES,,MA0538,,,,"URB.COSTA DEL ORO - LOCAL 1 - ",,,"1º ",,29793,952520166,TORROX,MALAGA
+103,nuevaplazamerced,info@plazamerced.com,Autoescuela,"Nueva Plaza Merced",,,,952772406,670651370,Marbella,www.plazamerced.com,,,,,,ES,25074278T,MA0527,"MARI CARMEN ","VISIEDO ","PULIDO ","AVENIDA RICARDO SORIANO 3",,,1,A,29601,670651370,MARBELLA,MARBELLA
+124,nuevaronda,nueva_ronda@hotmail.com,Autoescuela,"Nueva Ronda",,,,956462386,666913270,Ronda,,,,,,,ES,25552069N,MA0455,MANUEL,CAMARA,MARIN,"José María Castelló Madrid",,,,14,29400,666913270,RONDA,RONDA
+178,nuevasuel,veronicaboeta@gmail.com,Autoescuela,"Nueva Suel",,,,,,Fuengirola,,,,,,,ES,34016004Q,MA0663,DIEGO,ECIJA,GARCIA,"CORONEL RIPOLLET",,,,LOCAL,29640,952474066,FUENGIROLA,MALAGA
+24,nuevocentro,nuevo.centro@hotmail.com,Autoescuela,"Nuevo Centro",,,,,,Málaga,,,,,,,ES,44582139C,MA0422,"CARLOS IVAN ",GONZALEZ,ROMERO,"LORENZA CORREA 10",,,,,29014,952254690,MÁLAGA,MALAGA
+105,olivares,autoescuela-olivares@hotmail.com,Autoescuela,Olivares,,,,,,estepona,,,,,,,ES,,MAxxxx,,,,,,,,,,,,
+25,olletas,autoescuelaolletas@hotmail.com,Autoescuela,Olletas,,,,,,Málaga,,,,,,,ES,25097031Y,MA0628,"JOSE ANTONIO",TELLEZ,MARTIN,"CAMINO COLMENAR 27 LOCAL 2",,,,,29013,673422505,MÁLAGA,MALAGA
+157,oscua,jmsanchezdo@gmail.com,Autoescuela,Oscua,,,,,,"VILLANUEVA DE LA CONCEPCION",,,,,,,ES,25321269V,MA0537,"JOSE MANUEL",SANCHEZ,DOMINGUEZ,"CALLE JAEN  9",,,,,29230,680347977,"VILLANUEVA DE LA CONCEPCIÓN",ANTEQUERA
+45,oviedo,autoescuelaoviedo@gmail.com,Autoescuela,Oviedo,,,,,,Benamargosa,,,,,,,ES,53369633L,MA0287,"Antonio Jesus",Oviedo,Hurtado,"CANIMO DE VELEZ 19",,,,,29718,952517297,BENAMARGOSA,MALAGA
+180,pamo,autoescuelapamo@gmail.com,Autoescuela,Pamo,,,,,,Málaga,,,,,,,ES,11773933A,MA0541,MIGUEL,PAMO,DIAZ,"CALLE MERCURIO URB PUEBLO SOL70",,,,,29631,650027187,MÁLAGA,MALAGA
+83,parqueoeste,juanjojuberias43@hotmail.com,Autoescuela,"Parque Oeste",,,,,,Málaga,,,,,,,ES,25090351l,MA0274,"Juan Jose ","Juberias ","De la Fuente","C/ Francisco Jimenez Lomas Nº 15",,,,,29004,645920056,MÁLAGA,MALAGA
+46,periana,autoescuelaperiana@hotamil.com,Autoescuela,Periana,,,,,,Periana,,,,,,,ES,80120839V,MA0503,"Amelia Maria Carmen",Ruiz,Pizarro,"CARRETERA TORRE DEL MAR Nº 3",,,,,29710,952537047,PERIANA,MALAGA
+26,picasso,autoescuelaspicasso@hotmail.es,Autoescuela,Picasso,,,,,,Málaga,,,,,,,ES,74872377V,MA0103,ELENA,"BOIRA ",EGUIA,"AVENIDA DE LA AURORA  14",,,,,29002,952342495,MÁLAGA,MALAGA
+159,record,recordautoescuela@gmail.com,Autoescuela,Record,,,,,,Antequera,,,,,,,ES,74637128N,MA0570,"JOSE ANTONIO ",COBOS,CUESTA,"AVENIDA ANDALUCIA 17",,,,BJ,29210,659831041,"CUEVAS DE SAN MARCOS",ANTEQUERA
+107,red,autoescuelared@hotmail.es,Autoescuela,Red,,,,,,Marbella,,,,,,,ES,25549707L,MA0318,Aurelio,Nuñez,Sanchez,"PLAZA DE JUAN MACIAS 1",,,,,29670,640063467,MARBELLA,MARBELLA
+125,rilke,autoescuelarilke@hotmail.com,Autoescuela,Rilke,,,,,,Ronda,,,,,,,ES,25558552D,MA0166,LUIS,ALMAGRO,GARCIA,"PLAZA CARMEN ABELA 4",,,,,29400,952875034,RONDA,RONDA
+138,rios,alirriga@gmail.com,Autoescuela,Rios,,,,,,Periana,,,,,,,ES,52583036E,MA0573,ALICIA,RIOS,GALLEGO,"CTRA.TORRE DEL MAR  Nº1 - BAJO A",,,,,29710,689667176,PERIANA,MALAGA
+139,romeral,autoescuelaromeral16@hotmail.com,Autoescuela,Romeral,,,,,,Málaga,,,,,,,ES,33375939H,MA0648,"FRANCISCO JOSÉ",HINOJOSA,PEREZ,"AVENIDA PLUTARCO 16",,,,,29010,699988287,MÁLAGA,MALAGA
+190,salguero,salgueroformacion@gmail.com,Autoescuela,Salguero,,,,,,Ronda,,,,,,,ES,48863588L,SE0818,EDUARDO,"GARCIA ",SALGUERO,"ANDRES AGUILAR GRACIAN 5",,,,,29400,658120527,RONDA,RONDA
+48,sanandres516,alberto.sanandrescdf@gmail.com,Autoescuela,"San Andres 516",,,,,,Málaga,,,,,,,ES,74852176X,MA0516,Valerio,"Garcia ",Valerio,"C/ VIÑA DEL MAR LOCAL 2",,,,,29004,952002090,MÁLAGA,MALAGA
+108,sancarlos,sancarlosformacion2@gmail.com,Autoescuela,"San Carlos",,,,,,Marbella,,,,,,,ES,27332856R,MA0521,Enrique,Montero,Cantos,"RAMON Y CAJAL - 10",,,,,29600,952770842,MARBELLA,MARBELLA
+194,sanluis,autoescuelasanluis2019@hotmail.com,Autoescuela,"San Luis",,,,,,Estepona,,,,,,,ES,08920185A,MA0965,"JOSE MARIA",SANCHEZ,LEON,"SAN LUIS ED TOME",,,,1,29692,640295987,MANILVA,MARBELLA
+49,sanrafael,info@autoescuelasanrafael.net,"Autoescuela San Rafael","San Rafael",,,,952342116,666512243,málaga,,,,,,,ES,52583219K,MA0506,SANTIAGO,"MARTEL ",PEREZ,"CAMINO SAN RAFAEL 40",,,,,29006,952342116,MÁLAGA,MALAGA
+184,sede,novaeortegaygasset@gmail.com,Autoescuela,Sede,,,,,,Málaga,,,,,,,ES,74864465V,MA0675,TAMARA,NAVARRO,BERNAL,"AVENIDA ORTEGA Y GASSET 171",,,,,29006,951152589,MÁLAGA,MALAGA
+27,sergionaranjo,autoescuela@formacionsn.es,Autoescuela,"Sergio Naranjo",,,,,,"Rincon de la Victoria",,,,,,,ES,53687806X,MA0714,Sergio,Naranjo,Florido,"C/RONDA Nº 15 - LOCAL 5",,,,,29730,951769290,"RINCÓN DE LA VICTORIA",MALAGA
+140,servial,servialae@gmail.com,Autoescuela,Servial,,,,,,Fuengirola,,,,,,,ES,25044066X,MA0646,FRANCISCO,CARRERA,GONZALEZ,"CALLE MARGARITA 65",,,,,29650,662400870,MIJAS,MALAGA
+109,sigma,autoescuelasigma@outlook.es,Autoescuela,Sigma,,,,,,Estepona,,,,,,,ES,44297452G,MA0616,"MARIA CRUZ",MARTIN,AGUILERA,"AVENIDA TOLEDO  EDIFICIO JARA  LOCAL 1",,,,,29680,952805223,ESTEPONA,MARBELLA
+141,sobreruedas,sobreruedasauto@gmail.com,Autoescuela,"Sobre Ruedas",,,,,,Fuengirola,,,,,,,ES,45299700G,MA0638,David,Sanchez,Juan,"Avda. Miramar 1",,,,,29640,951514346,FUENGIROLA,MALAGA
+198,sohail,autoes.fuensol@gmail.com,"Autoescuela Sohail","Autoescuela Sohail",,,,,,Fuengirola,,,,,,,ES,27378906M,MA0593,Dolores,Cortes,Fernandez,"C / Nuñez de balboa 1",,,,,29640,952474254,FUENGIROLA,MALAGA
+161,soriano,autoescuelassoriano@hotmail.es,Autoescuela,Soriano,,,,,,Antequera,,,,,,,ES,25324285C,MA0512,ANTONIO,SORIANO,MARTINEZ,"CALLE GRANADA 1",,,,,29530,952710304,ALAMEDA,ANTEQUERA
+162,sorimar,aesorimar98@hotmail.com,Autoescuela,Sorimar,,,,,,"CUEVAS DE SAN MARCOS",,,,,,,ES,18940624D,MA0569,SEBASTIAN,MARTINEZ,GREGORI,"PABLO RUIZ PICASSO 44",,,,,29210,952728487,"CUEVAS DE SAN MARCOS",ANTEQUERA
+205,soy18,guranda@soy18.com,"Autoescuela Soy18",Soy18,,,,,,malaga,,,,,,,ES,23859890N,MA0708,"Jhonny Alfredo",Millan,Alvarez,"c competa 16",,,,,29007,952327262,MÁLAGA,MALAGA
+189,stop,stopformacion@aestop.com,"Autoescuela Stop","Del Rio Escobar",,,,,,Málaga,,,,,,,ES,24847576D,MA0075,Joaquin,"Del rio",Escobar,"AVDA. JOSE ORTEGA Y GASSET 73",,,,,29006,610524359,MÁLAGA,MALAGA
+84,teatinos,rgvialteatinos@gmail.com,Autoescuela,Teatinos,,,,,,Málaga,,,,,,,ES,53690307G,MA0692,"DANIEL ","RODRIGUEZ ",GOMEZ,"C/ DOCTOR MIGUEL DIAZ RECIO 38",,,,,29010,633652928,MÁLAGA,MALAGA
+110,test,info@autoescuelatest.es,Autoescuela,Test,,,,951087039,,Estepona,,,,,,,ES,74927989S,MA0558,JUSTO,PEREZ,HUSSEIN,"PROLONGACION AVDA.SAN LORENZO Nº 36 EDIF.TEIDE  ","local 1",,,,29680,652821115,ESTEPONA,MARBELLA
+183,tivoli,autoescuelativoli@hotmail.com,Autoescuela,Tivoli,,,,,,Benalmádena,,,,,,,ES,44432196Z,MA0639,DAVID,FERNÁNDEZ,FRUTOS,"AVENIDA DEL TIVOLI. LOCAL",,,,4,29631,952566743,BENALMÁDENA,MALAGA
+50,torrevelez,aetorrevelez@gmail.com,Autoescuela,"Torre Velez",,,,952501998,,Vélez-Málaga,www.autoescuelatorrevelez.es,,,,,,ES,52586383B,MA0357,"José Antonio",Bermúdez," Arrabal","Calle Canalejas 40",,,,A,29700,952501998,VÉLEZ-MÁLAGA,MALAGA
+163,trabuco,autoescuela_trabuco@hotmail.com,Autoescuela,Trabuco,,,,,,"V VA del trabuco",,,,,,,ES,25334242H,MA0480,RAUL,TALLON,VEGAS,"URBN. EL PILON  S/N",,,,,29313,657963022,"VILLANUEVA DEL TRABUCO",ANTEQUERA
+206,trebol,correo@autoescuelatrebol.com,"AUTOESCUELA TREBOL",TREBOL,,,,,,Málaga,,,,,,,ES,24838749Z,MA0689,"Juan Luis",Merchan,Fernandez,"pso de sancha 60 l4",,,,,29016,952216525,MÁLAGA,MALAGA
+126,trial,autoescuelastrial@gmail.com,Autoescuela,Trial,,,,,,Ronda,,,,,,,ES,25574270H,MA0620,PEDRO,MARIN,CASTRO,"SEVILLA  98",,,,,29400,630346435,RONDA,RONDA
+51,triver,autoescuelastriver@hotmail.com,Autoescuela,Triver,,,,,,Málaga,,,,,,,ES,25687493N,MA0575,SALVADOR,VERDUGO,PALMA,"C/ LAZO S/N",,,,,29180,653483807,RIOGORDO,MALAGA
+85,urbano,autoescuelaurbano@hotmail.com,Autoescuela,Urbano,,,,,,Málaga,,,,,,,ES,24759156R,MA0073,FRANCISCO,URBANO,MOYA,"PLAZA DE LA LUZ 2 ",,,,,29004,625497075,MÁLAGA,MALAGA
+191,urbano2,info@urbanoautoescuelas.com,Autoescuela,"Urbano II",,,,,,Málaga,,,,,,,ES,24741980Y,MA0354,Jose,"Urbano ",Moya,"C Conjunto Victoria 8",,,,,29100,605070384,COÍN,MALAGA
+111,valenciana,autoescuelavalenciana@gmail.com,Autoescuela,Valenciana,,,,,,Estepona,,,,,,,ES,74637128N,MA0560,"Jose Antonio",Cobos,Cuesta,"C/GIBRALTAR Nº 1",,,,,29680,677147569,ESTEPONA,MARBELLA
+112,villablanca,villablanca03422@hotmail.com,Autoescuela,"Villa Blanca",,,,,,Fuengirola,,,,,,,ES,24830114G,MA0342,"Antonio Jesus",Martin,Rodriguez,"LA UNION 34  - LOCAL 3",,,,,29640,952471224,FUENGIROLA,MARBELLA
+164,yuste,autoescuelayuste@gmail.com,Autoescuela,Yuste,,,,,,Antequera,,,,,,,ES,25333590X,MA0596,"JOSE ANTONIO","YUSTE ",ROPERO,"C/ SUERTES Nº3 BAJO A",,,,,29313,653886881,"VILLANUEVA DEL TRABUCO",ANTEQUERA
+127,zambrana,autoescuelazambrana@gmail.com,Autoescuela,Zambrana,,,,,,Ronda,,,,,,,ES,75860784E,MA0451,JUAN,RAMÍREZ,PERIÁÑEZ,"AVENIDA DE MÁLAGA 22",,,,,29400,667367062,RONDA,RONDA
+128,zeus,secretaria@academiazeusronda.es,Autoescuela,Zeus,,,,,,Ronda,,,,,,,ES,74931995L,MA0615,Ruben,Pan,Perez,"C/ Monterejas nº 7-9",,,,,29400,633315343,RONDA,RONDA
+44,narixa,aenarixa@hotmail.com,EUSEBIO,"GARCÍA SAAVEDRA BASTAZO",,,,,,Nerja,,,,,,,ES,24790782W,MA0191,EUSEBIO,"GARCÏA SAAVEDRA",BASTAZO,"AVDA CASTILLA PÉREZ  10",,,,,29780,606305810,NERJA,MALAGA
+153,frank,franfdez001@hotmail.com,"Francisco Javier","Fernández Mota",,,,,,Antequera,,,,,,,ES,33372360G,MA0545,"Francisco Javier",Fernandez,Mota,"URB.PARQUESOL 23 BAJO.",23,,,Bj,29200,628935724,ANTEQUERA,ANTEQUERA
+203,gallego,jossss69@hotmail.com,José,"Gallego Becerra",,,,,,MARBELLA,,,,,,,ES,77341160A,MA0711,Daniel,Lechuga,Torrres,"JOSE GONZALEZ MILLAN 1",,,,,29100,622263020,COÍN,MARBELLA
+204,diana,merguidotti@hotmail.com,Mercedes,"Guidotti Osella",,,,,,MARBELLA,,,,,,,ES,75862466W,MA0713,ANTONIO,JIMENEZ,GARCIA,"VELEZ MALAGA L1",6,,,,29670,951322104,MARBELLA,MARBELLA
+158,pilato,autoescuelapilato@gmail.com,SALVADOR,"ORTIZ TORRES",,,,,,"Sierra de Lleguas",,,,,,,ES,25334474C,MA0603,DIEGO,ESPINAR,RUIZ,"C/ OLIVA Nº 60",,,,,29328,673004038,"SIERRA DE YEGUAS",ANTEQUERA
+5,salvador,apae@apaemalaga.es,Salvador,"Ramirez Coca",,,,,,Málaga,,,,,,,ES,33390213D,MA0000,Salvador,RAMIREZ,COCA,"GARGANTUA 12",,,,,29006,952325850,MÁLAGA,MALAGA
+47,sanandres121,sanandres.eu@sanandres.eu,"SAN ANDRÉS formación vial","San Andres 121",,,,"952 31 52 75","672 13 95 65",Málaga,sanandres.eu,,,,,,ES,74852176X,MA0121,Valerio,García,Valerio,"C/ Gaucin nº 23",,,,,29003,672139565,MÁLAGA,MALAGA
+160,sanbenito,autosanbenito@hotmail.com,"SAN BENITO","GARCIA MAYORGA",,,,,,Antequera,,,,,,,ES,25310109N,MA0664,"JOSE ",GARCIA,MAYORGA,"CARRETEROS     12   ",,,BJ,IZ,29200,952842785,ANTEQUERA,ANTEQUERA
