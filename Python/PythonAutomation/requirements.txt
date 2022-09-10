@@ -1,9 +1,10 @@
 Babel==2.10.3
 certifi==2022.6.15.1
 chardet==3.0.4
-Delorean==1.0.0
+delorean==1.0.0
 humanize==4.3.0
 idna==2.8
+parse==1.14.0
 python-dateutil==2.8.2
 pytz==2022.2.1
 pytz-deprecation-shim==0.1.0.post0
