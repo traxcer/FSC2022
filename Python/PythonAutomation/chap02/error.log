@@ -1,8 +1,0 @@
-2022-09-11 12:08:40,868 root INFO Dividing 5 between 0
-2022-09-11 12:08:40,868 root ERROR Error running task
-Traceback (most recent call last):
-  File "/home/eloy/Escritorio/TELECO/FSC/FSC2022/Python/PythonAutomation/chap02/task_with_error_handling_step4.py", line 26, in <module>
-    main(args.n1, args.n2, args.output)
-  File "/home/eloy/Escritorio/TELECO/FSC/FSC2022/Python/PythonAutomation/chap02/task_with_error_handling_step4.py", line 10, in main
-    result = number / other_number
-ZeroDivisionError: division by zero
