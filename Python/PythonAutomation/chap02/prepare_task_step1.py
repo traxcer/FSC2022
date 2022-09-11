@@ -6,8 +6,8 @@ def main(number, other_number):
 
 if __name__ == '__main__':    
     parser = argparse.ArgumentParser()    
-    parser.add_argument('-n1', type=int, help='A number', default=1)    
-    parser.add_argument('-n2', type=int, help='Another number', default=1)    
+    parser.add_argument('-n1', type=int, help='Un numero', default=1)    
+    parser.add_argument('-n2', type=int, help='Otro numero', default=1)    
     
     args = parser.parse_args()    
     
